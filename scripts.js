@@ -8,6 +8,6 @@ buttonRed.addEventListener('click', (e)=> {
 
     if (emailRed) {
 
-        document.location.href = `https://github.com/kaleriapog/yellow-page?${emailRed}`;
+        document.location.href = `https://kaleriapog.github.io/yellow-page/?${emailRed}`;
     }    
 })
