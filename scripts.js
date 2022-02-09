@@ -11,3 +11,4 @@ buttonRed.addEventListener('click', (e)=> {
         document.location.href = `https://kaleriapog.github.io/yellow-page/?${emailRed}`;
     }    
 })
+// test
